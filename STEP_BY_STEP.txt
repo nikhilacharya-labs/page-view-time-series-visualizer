@@ -1,0 +1,19 @@
+PAGE VIEW TIME SERIES VISUALIZER - STEP BY STEP
+
+1. Create/open the official freeCodeCamp Page View Time Series Visualizer starter project.
+2. Keep these starter files:
+   - fcc-forum-pageviews.csv
+   - main.py
+   - test_module.py
+3. Replace only time_series_visualizer.py with the completed file provided here.
+4. Keep fcc-forum-pageviews.csv in the same folder.
+5. Run main.py to test the project.
+6. The project creates line_plot.png, bar_plot.png and box_plot.png.
+7. Make sure the tests pass before submitting.
+8. Publish your own project to GitHub/Replit as required by the freeCodeCamp page.
+9. Submit YOUR OWN project URL in the Solution Link box.
+
+IMPORTANT:
+- Do not rename fcc-forum-pageviews.csv.
+- Do not delete test_module.py.
+- Do not rename draw_line_plot, draw_bar_plot, or draw_box_plot.
